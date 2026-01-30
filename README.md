@@ -8,12 +8,19 @@ To write a program to predict the price of the house and number of occupants in 
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+
 1.Import required libraries: NumPy, Matplotlib, and SGDRegressor.
+
 2.Define the input feature matrix X and target output vector y.
+
 3.Create the SGDRegressor model with suitable learning rate and iterations.
+
 4.Train the model using the fit() method.
+
 5.Display the learned weights and bias.
-6.Predict output values using the predict() method.
+
+6.Predict output values using the predict() method. 
+
 7.Plot the graph between actual values and predicted values.
 
 ## Program:
