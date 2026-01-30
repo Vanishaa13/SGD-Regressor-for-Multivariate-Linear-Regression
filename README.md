@@ -51,7 +51,7 @@ plt.xlabel("Actual y")
 plt.ylabel("Predicted y")
 plt.title("Actual vs Predicted (SGDRegressor)")
 plt.plot([y.min(), y.max()], [y.min(), y.max()], 'r--')  # Perfect prediction line
-plt.show() 
+plt.show()
 */
 ```
 
